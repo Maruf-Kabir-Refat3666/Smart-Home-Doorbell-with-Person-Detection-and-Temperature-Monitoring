@@ -1,0 +1,2 @@
+# Smart-Home-Doorbell-with-Person-Detection-and-Temperature-Monitoring
+This project showcases a smart doorbell system utilizing an Arduino Uno, ultrasonic and temperature sensors, and a Grove LCD display. The system accurately detects human presence and measures the ambient temperature. Real-time sensor readings are promptly displayed on the Grove LCD, providing an intuitive and informative interface for users.
